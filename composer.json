@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/userforms-bulk-delete",
+    "name": "dnadesign/userforms-bulk-delete",
     "description": "Provides different ways of deleting SubmiitedForm data",
     "type": "silverstripe-module",
     "keywords": [
