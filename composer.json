@@ -1,0 +1,22 @@
+{
+    "name": "silverstripe/userforms-bulk-delete",
+    "description": "Provides different ways of deleting SubmiitedForm data",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "userforms",
+        "delete",
+        "data"
+    ],
+    "authors": [
+        {
+            "name": "DNA Design",
+            "email": "dev@dna.co.nz"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.2",
+        "silverstripe/userforms": "~4.4.x-dev",
+        "dnadesign/gridfield-bulk-delete": "~0.1"  
+    }
+}

@@ -1,0 +1,10 @@
+---
+Name: userforms-datamanager
+---
+SubmittedFileField:
+  extensions:
+    - SubmittedFileField_RemoveFileUponDeletion
+
+UserDefinedForm:
+  extensions:
+    - UserDefinedForm_BulkDelete
