@@ -16,7 +16,7 @@
     ],
     "require": {
         "silverstripe/framework": "~3.2",
-        "silverstripe/userforms": "4.4.x-dev",
+        "silverstripe/userforms": "~4.4",
         "dnadesign/gridfield-bulk-delete": "~0.1"  
     }
 }
