@@ -1,10 +1,10 @@
 ---
 Name: userforms-datamanager
 ---
-SubmittedFileField:
+SilverStripe\UserForms\Model\Submission\SubmittedFileField:
   extensions:
-    - SubmittedFileField_RemoveFileUponDeletion
+    - DNADesign\UserformsBulkDelete\Extension\SubmittedFileField_RemoveFileUponDeletion
 
-UserDefinedForm:
+SilverStripe\UserForms\Model\UserDefinedForm:
   extensions:
-    - UserDefinedForm_BulkDelete
+    - DNADesign\UserformsBulkDelete\Extension\UserDefinedForm_BulkDelete
