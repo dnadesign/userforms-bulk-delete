@@ -2,10 +2,10 @@
 
 namespace DNADesign\UserformsBulkDelete\Extension;
 
-use SilverStripe\Core\Extension;
-use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\GridField\GridField;
-use DNADesign\BulkDelete\GridFieldBulkDeleteForm;
+use SilverStripe\Forms\FieldList;
+use SilverStripe\Core\Extension;
+use DNADesign\GridFieldBulkDelete\GridFieldBulkDeleteForm;
 
 /**
 * Add GridFieldBulkDeleteForm component
