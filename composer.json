@@ -16,5 +16,9 @@
             "name": "DNA Designed Communications Limited",
             "email": "dev@dna.co.nz"
         }
-    ]
+    ],
+	"require": {
+        "silverstripe/framework": "^4 || ^5",
+        "dnadesign/gridfield-bulk-delete": "^1"
+    }
 }
