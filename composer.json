@@ -16,8 +16,5 @@
             "name": "DNA Designed Communications Limited",
             "email": "dev@dna.co.nz"
         }
-    ],
-	"require": {
-        "silverstripe/vendor-plugin": "^1.0"
-    }
+    ]
 }
