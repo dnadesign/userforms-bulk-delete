@@ -18,7 +18,8 @@
         }
     ],
 	"require": {
-        "silverstripe/framework": "^4 || ^5",
-        "dnadesign/gridfield-bulk-delete": "^1"
+        "silverstripe/framework": "^6",
+        "dnadesign/gridfield-bulk-delete": "^2",
+        "silverstripe/userforms": "^7"
     }
 }

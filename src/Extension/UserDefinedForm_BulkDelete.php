@@ -14,7 +14,7 @@ use DNADesign\GridFieldBulkDelete\GridFieldBulkDeleteForm;
 */
 class UserDefinedForm_BulkDelete extends Extension
 {
-    public function updateCMSFields(FieldList $fields)
+    protected function updateCMSFields(FieldList $fields)
     {
         $submissions = $fields->fieldByName('Root.Submissions.Submissions');
         if ($submissions && $submissions instanceof GridField) {
